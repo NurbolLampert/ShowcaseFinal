@@ -1,0 +1,94 @@
+Test Path ID,Starting Page,Starting URL,Button Used,End Page,Expected URL
+TP01,Contact,https://www.dannycophotography.com/contact/,Home,Home,https://www.dannycophotography.com/
+TP02,Contact,https://www.dannycophotography.com/contact/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP03,Contact,https://www.dannycophotography.com/contact/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP04,Contact,https://www.dannycophotography.com/contact/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP05,Contact,https://www.dannycophotography.com/contact/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP06,Contact,https://www.dannycophotography.com/contact/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP07,Contact,https://www.dannycophotography.com/contact/,Event,Event,https://www.dannycophotography.com/events/
+TP08,Event,https://www.dannycophotography.com/events/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP09,Event,https://www.dannycophotography.com/events/,Find Out My Experience,Experience,https://www.dannycophotography.com/experience/
+TP10,Event,https://www.dannycophotography.com/events/,Take Me Home,Home,https://www.dannycophotography.com/
+TP11,Event,https://www.dannycophotography.com/events/,Let Us Connect,Contact,https://www.dannycophotography.com/contact/
+TP12,Event,https://www.dannycophotography.com/events/,Home,Home,https://www.dannycophotography.com/
+TP13,Event,https://www.dannycophotography.com/events/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP14,Event,https://www.dannycophotography.com/events/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP15,Event,https://www.dannycophotography.com/events/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP16,Event,https://www.dannycophotography.com/events/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP17,Event,https://www.dannycophotography.com/events/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP18,Event,https://www.dannycophotography.com/events/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP19,Experience,https://www.dannycophotography.com/experience/,View My Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP20,Experience,https://www.dannycophotography.com/experience/,Let Us Connect,Contact,https://www.dannycophotography.com/contact/
+TP21,Experience,https://www.dannycophotography.com/experience/,Home,Home,https://www.dannycophotography.com/
+TP22,Experience,https://www.dannycophotography.com/experience/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP23,Experience,https://www.dannycophotography.com/experience/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP24,Experience,https://www.dannycophotography.com/experience/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP25,Experience,https://www.dannycophotography.com/experience/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP26,Experience,https://www.dannycophotography.com/experience/,Event,Event,https://www.dannycophotography.com/events/
+TP27,Experience,https://www.dannycophotography.com/experience/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP28,Home,https://www.dannycophotography.com/,Travel Portfolio,Travel,https://www.dannycophotography.com/travel/
+TP29,Home,https://www.dannycophotography.com/,Event Portfolio,Event,https://www.dannycophotography.com/events/
+TP30,Home,https://www.dannycophotography.com/,Portrait Portfolio,Portrait,https://www.dannycophotography.com/portrait/
+TP31,Home,https://www.dannycophotography.com/,Let Us Connect,Contact,https://www.dannycophotography.com/contact/
+TP32,Home,https://www.dannycophotography.com/,Learn About Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP33,Home,https://www.dannycophotography.com/,Find Out More About Me,Experience,https://www.dannycophotography.com/experience/
+TP34,Home,https://www.dannycophotography.com/,Check Out My Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP35,Home,https://www.dannycophotography.com/,Contact Me,Contact,https://www.dannycophotography.com/contact/
+TP36,Home,https://www.dannycophotography.com/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP37,Home,https://www.dannycophotography.com/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP38,Home,https://www.dannycophotography.com/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP39,Home,https://www.dannycophotography.com/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP40,Home,https://www.dannycophotography.com/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP41,Home,https://www.dannycophotography.com/,Event,Event,https://www.dannycophotography.com/events/
+TP42,Home,https://www.dannycophotography.com/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP43,Portfolio,https://www.dannycophotography.com/portfolio/,Check Out My Work Below,Travel,https://www.dannycophotography.com/travel/
+TP44,Portfolio,https://www.dannycophotography.com/portfolio/,Travel Portfolio,Travel,https://www.dannycophotography.com/travel/
+TP45,Portfolio,https://www.dannycophotography.com/portfolio/,Portrait Portfolio,Portrait,https://www.dannycophotography.com/portrait/
+TP46,Portfolio,https://www.dannycophotography.com/portfolio/,Event Portfolio,Event,https://www.dannycophotography.com/events/
+TP47,Portfolio,https://www.dannycophotography.com/portfolio/,Find Out My Experience,Experience,https://www.dannycophotography.com/experience/
+TP48,Portfolio,https://www.dannycophotography.com/portfolio/,Take Me Home,Home,https://www.dannycophotography.com/
+TP49,Portfolio,https://www.dannycophotography.com/portfolio/,Get In Touch,Contact,https://www.dannycophotography.com/contact/
+TP50,Portfolio,https://www.dannycophotography.com/portfolio/,Home,Home,https://www.dannycophotography.com/
+TP51,Portfolio,https://www.dannycophotography.com/portfolio/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP52,Portfolio,https://www.dannycophotography.com/portfolio/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP53,Portfolio,https://www.dannycophotography.com/portfolio/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP54,Portfolio,https://www.dannycophotography.com/portfolio/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP55,Portfolio,https://www.dannycophotography.com/portfolio/,Event,Event,https://www.dannycophotography.com/events/
+TP56,Portfolio,https://www.dannycophotography.com/portfolio/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP57,Portrait,https://www.dannycophotography.com/portrait/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP58,Portrait,https://www.dannycophotography.com/portrait/,Graduation Photographer,Pricing,https://www.dannycophotography.com/pricing/
+TP59,Portrait,https://www.dannycophotography.com/portrait/,Lifestyle Photographer,Pricing,https://www.dannycophotography.com/pricing/
+TP60,Portrait,https://www.dannycophotography.com/portrait/,Wedding Photographer,Pricing,https://www.dannycophotography.com/pricing/
+TP61,Portrait,https://www.dannycophotography.com/portrait/,Book a Portrait Session Now,Booking,https://dannycophotography.pixieset.com/booking/
+TP62,Portrait,https://www.dannycophotography.com/portrait/,Find Out My Experience,Experience,https://www.dannycophotography.com/experience/
+TP63,Portrait,https://www.dannycophotography.com/portrait/,Take Me Home,Home,https://www.dannycophotography.com/
+TP64,Portrait,https://www.dannycophotography.com/portrait/,Let Us Connect,Contact,https://www.dannycophotography.com/contact/
+TP65,Portrait,https://www.dannycophotography.com/portrait/,Home,Home,https://www.dannycophotography.com/
+TP66,Portrait,https://www.dannycophotography.com/portrait/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP67,Portrait,https://www.dannycophotography.com/portrait/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP68,Portrait,https://www.dannycophotography.com/portrait/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP69,Portrait,https://www.dannycophotography.com/portrait/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP70,Portrait,https://www.dannycophotography.com/portrait/,Event,Event,https://www.dannycophotography.com/events/
+TP71,Portrait,https://www.dannycophotography.com/portrait/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP72,Pricing,https://www.dannycophotography.com/pricing/,Contact Me,Contact,https://www.dannycophotography.com/contact/
+TP73,Pricing,https://www.dannycophotography.com/pricing/,Find Out My Experience,Experience,https://www.dannycophotography.com/experience/
+TP74,Pricing,https://www.dannycophotography.com/pricing/,Take Me Home,Home,https://www.dannycophotography.com/
+TP75,Pricing,https://www.dannycophotography.com/pricing/,Check Out My Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP76,Pricing,https://www.dannycophotography.com/pricing/,Home,Home,https://www.dannycophotography.com/
+TP77,Pricing,https://www.dannycophotography.com/pricing/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP78,Pricing,https://www.dannycophotography.com/pricing/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP79,Pricing,https://www.dannycophotography.com/pricing/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP80,Pricing,https://www.dannycophotography.com/pricing/,Travel,Travel,https://www.dannycophotography.com/travel/
+TP81,Pricing,https://www.dannycophotography.com/pricing/,Event,Event,https://www.dannycophotography.com/events/
+TP82,Pricing,https://www.dannycophotography.com/pricing/,Contact,Contact,https://www.dannycophotography.com/contact/
+TP83,Travel,https://www.dannycophotography.com/travel/,Get In Touch,Contact,https://www.dannycophotography.com/contact/
+TP84,Travel,https://www.dannycophotography.com/travel/,Find Out My Experience,Experience,https://www.dannycophotography.com/experience/
+TP85,Travel,https://www.dannycophotography.com/travel/,Take Me Home,Home,https://www.dannycophotography.com/
+TP86,Travel,https://www.dannycophotography.com/travel/,Let Us Connect,Contact,https://www.dannycophotography.com/contact/
+TP87,Travel,https://www.dannycophotography.com/travel/,Home,Home,https://www.dannycophotography.com/
+TP88,Travel,https://www.dannycophotography.com/travel/,Experience,Experience,https://www.dannycophotography.com/experience/
+TP89,Travel,https://www.dannycophotography.com/travel/,Pricing,Pricing,https://www.dannycophotography.com/pricing/
+TP90,Travel,https://www.dannycophotography.com/travel/,Portfolio,Portfolio,https://www.dannycophotography.com/portfolio/
+TP91,Travel,https://www.dannycophotography.com/travel/,Portrait,Portrait,https://www.dannycophotography.com/portrait/
+TP92,Travel,https://www.dannycophotography.com/travel/,Event,Event,https://www.dannycophotography.com/events/
+TP93,Travel,https://www.dannycophotography.com/travel/,Contact,Contact,https://www.dannycophotography.com/contact/
